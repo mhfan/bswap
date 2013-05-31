@@ -1,0 +1,21 @@
+Begin3
+Title:		bswap
+Version:	0.1.0
+Entered-date:	2006-03-30
+Description:	Utility for bytes swapping, especially for endianess(little-/big-) converting.
+		bswap.lsm.  Generated from bswap.lsm.in by configure.
+		Please edit bswap.lsm.in to fix the Keywords and
+		Primary-site entries, add several more lines of
+		description here if appropriate, and to delete these
+		instructions.
+Keywords:	[substitute your keywords here]
+Author: 	mhfan@ustc.edu (Meihui Fan)
+Maintained-by:	mhfan@ustc.edu (Meihui Fan)
+Primary-site:	metlab.unc.edu pub/Linux/apps/some/directory
+		31k bswap-0.1.0.tar.gz
+		500  bswap.lsm
+Alternate-site: 
+Original-site:  
+Platforms:      
+Copying-policy:	GNU copyleft
+End
